@@ -1,5 +1,4 @@
-name: Build Unsigned
-on:
+name: aimiao
   push:
     branches:
       - main
